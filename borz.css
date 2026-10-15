@@ -1,0 +1,158 @@
+body{
+    background-image: url(../violet.png);
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    
+}
+
+
+
+         .moscow{
+           border-collapse: collapse;
+         }
+        
+
+
+        
+        
+         .great{border: 1px solid green;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: green;
+
+         }
+
+
+
+         .bear{border: 1px solid  black;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(31, 8, 61);
+
+         }
+
+
+
+         .mercy{border: 1px solid  black;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: black;
+
+         }
+
+
+         .justin{border: 1px solid  blue;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(47, 12, 206);
+
+         }
+
+
+
+         .matador{border: 1px solid  red;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: black;
+
+         }
+
+
+         .asp{border: 1px solid  blue;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: red;
+
+         }
+
+
+         .tarzan{border: 1px solid  blue;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(183, 0, 255);
+
+         }
+
+
+          .poatan{border: 1px solid  rgb(255, 153, 6);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(255, 0, 255);
+
+         }
+
+
+
+         .merab{border: 1px solid  rgb(255, 6, 6);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(255, 81, 0);
+
+         }
+
+
+
+         .gane{border: 1px solid  rgb(60, 6, 255);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(255, 0, 0);
+
+         }
+
+
+
+         .fearless{border: 1px solid  rgb(230, 255, 6);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(43, 255, 0);
+
+         }
+
+
+
+         .chimaev{border: 1px solid  black;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: red;
+
+         }
+
+
+
+         .pantoja{border: 1px solid  yellow;
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: green;
+
+         }
+
+
+
+         .arman{border: 1px solid  rgb(204, 0, 255);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(0, 124, 128);
+
+         }
+
+
+
+         .bronxs{border: 1px solid  rgb(20, 187, 15);
+          padding: 10px 20px;
+          font-family: 'tahoma' ;
+          color: rgb(235, 8, 8);
+
+         }
+
+
+         .sky{
+            color: white;
+         }
+
+
+
+
+
+
+         
